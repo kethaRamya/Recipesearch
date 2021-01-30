@@ -5,7 +5,6 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 import SearchBoxRecipes from './Components/SearchBox'
 import RecipesItems from './Components/RecipeItems'
-import ListData from './ListData'
 function App() {
   return (
     <div className="App">
